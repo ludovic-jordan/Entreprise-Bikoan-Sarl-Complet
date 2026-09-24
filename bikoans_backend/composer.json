@@ -1,0 +1,10 @@
+{
+    "name": "bikoan/backend",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
